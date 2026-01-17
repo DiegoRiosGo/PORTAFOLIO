@@ -6,14 +6,14 @@ Este repositorio reúne una selección de proyectos académicos desarrollados du
 ### Mi Visión Académica
 Plataforma web para el análisis del rendimiento académico de estudiantes.  
 Tecnologías: Python, Django, JavaScript  
-[[Ver repositorio](https://github.com/DiegoRiosGo/MiVisionAcademica.git)](link)
+[Ver repositorio(https://github.com/DiegoRiosGo/MiVisionAcademica.git)](link)
 
 ### Tótem Busca Tu Sala
 Proyecto de innovación para orientación de estudiantes en la sede.  
 Tecnologías: Java  
-[Ver repositorio](link)
+[Ver repositorio(https://github.com/DiegoRiosGo/Totem-Busca_Tu_Sala.git)](link)
 
-### Aplicación de Viajes Colaborativos
+### Mi Viaje APP
 Aplicación móvil desarrollada con Ionic Framework.  
 Tecnologías: Ionic, Android  
-[Ver repositorio](link)
+[Ver repositorio(https://github.com/DiegoRiosGo/MiViajeAPP.git)](link)
