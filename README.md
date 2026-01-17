@@ -6,7 +6,7 @@ Este repositorio reúne una selección de proyectos académicos desarrollados du
 ### Mi Visión Académica
 Plataforma web para el análisis del rendimiento académico de estudiantes.  
 Tecnologías: Python, Django, JavaScript  
-[Ver repositorio](link)
+[[Ver repositorio](https://github.com/DiegoRiosGo/MiVisionAcademica.git)](link)
 
 ### Tótem Busca Tu Sala
 Proyecto de innovación para orientación de estudiantes en la sede.  
